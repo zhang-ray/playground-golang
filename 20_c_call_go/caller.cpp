@@ -1,5 +1,5 @@
 // 使用方法：
-// g++ -o caller caller.cpp yigeku.so && ./caller
+// g++ -std=c++11 -o caller caller.cpp yigeku.so && ./caller
 
 extern "C"{
 #include <stdio.h>
